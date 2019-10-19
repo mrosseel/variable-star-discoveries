@@ -3,41 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mrosseel.github.io/posts/</loc>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/posts/</loc>
+    <lastmod>2019-10-19T16:19:56+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/</loc>
+    <lastmod>2019-10-19T16:19:56+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/posts/twocomps/twocomps/</loc>
+    <lastmod>2019-10-19T16:19:56+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/posts/test/test/</loc>
     <lastmod>2019-10-09T11:10:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://mrosseel.github.io/</loc>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra1/wwcra1/</loc>
     <lastmod>2019-10-09T11:10:29+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://mrosseel.github.io/posts/test/test/</loc>
-    <lastmod>2019-10-09T11:10:29+02:00</lastmod>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://mrosseel.github.io/posts/wwcra1/wwcra1/</loc>
-    <lastmod>2019-10-09T11:10:29+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://mrosseel.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://mrosseel.github.io/tags/</loc>
+    <loc>https://mrosseel.github.io/variable-star-discoveries/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

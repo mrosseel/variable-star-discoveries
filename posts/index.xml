@@ -2,30 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on RMH&#43;HMB Variable star discoveries</title>
-    <link>http://mrosseel.github.io/posts/</link>
+    <link>https://mrosseel.github.io/variable-star-discoveries/posts/</link>
     <description>Recent content in Posts on RMH&#43;HMB Variable star discoveries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Oct 2019 11:10:29 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2019 16:19:56 +0000</lastBuildDate>
     
-	<atom:link href="http://mrosseel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mrosseel.github.io/variable-star-discoveries/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>twocomps</title>
+      <link>https://mrosseel.github.io/variable-star-discoveries/posts/twocomps/twocomps/</link>
+      <pubDate>Sat, 19 Oct 2019 16:19:56 +0000</pubDate>
+      
+      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/twocomps/twocomps/</guid>
+      <description>Batch of new variable stars</description>
+    </item>
+    
+    <item>
       <title>test</title>
-      <link>http://mrosseel.github.io/posts/test/test/</link>
+      <link>https://mrosseel.github.io/variable-star-discoveries/posts/test/test/</link>
       <pubDate>Wed, 09 Oct 2019 11:10:29 +0200</pubDate>
       
-      <guid>http://mrosseel.github.io/posts/test/test/</guid>
+      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/test/test/</guid>
       <description>Batch of new variable stars</description>
     </item>
     
     <item>
       <title>wwcra1</title>
-      <link>http://mrosseel.github.io/posts/wwcra1/wwcra1/</link>
+      <link>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra1/wwcra1/</link>
       <pubDate>Wed, 09 Oct 2019 11:10:29 +0200</pubDate>
       
-      <guid>http://mrosseel.github.io/posts/wwcra1/wwcra1/</guid>
+      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra1/wwcra1/</guid>
       <description>Batch of new variable stars</description>
     </item>
     
