@@ -1,40 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RMH&#43;HMB Variable star discoveries</title>
+    <title>RMH and HMB Variable star discoveries</title>
     <link>https://mrosseel.github.io/variable-star-discoveries/</link>
-    <description>Recent content on RMH&#43;HMB Variable star discoveries</description>
+    <description>Recent content on RMH and HMB Variable star discoveries</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Oct 2019 16:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 11:37:43 +0000</lastBuildDate>
     
 	<atom:link href="https://mrosseel.github.io/variable-star-discoveries/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>twocomps</title>
-      <link>https://mrosseel.github.io/variable-star-discoveries/posts/twocomps/twocomps/</link>
-      <pubDate>Sat, 19 Oct 2019 16:19:56 +0000</pubDate>
+      <title>wwcra2014-1</title>
+      <link>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra2014-1/wwcra2014-1/</link>
+      <pubDate>Fri, 08 Nov 2019 11:37:43 +0000</pubDate>
       
-      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/twocomps/twocomps/</guid>
-      <description>Batch of new variable stars</description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://mrosseel.github.io/variable-star-discoveries/posts/test/test/</link>
-      <pubDate>Wed, 09 Oct 2019 11:10:29 +0200</pubDate>
-      
-      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/test/test/</guid>
-      <description>Batch of new variable stars</description>
-    </item>
-    
-    <item>
-      <title>wwcra1</title>
-      <link>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra1/wwcra1/</link>
-      <pubDate>Wed, 09 Oct 2019 11:10:29 +0200</pubDate>
-      
-      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra1/wwcra1/</guid>
+      <guid>https://mrosseel.github.io/variable-star-discoveries/posts/wwcra2014-1/wwcra2014-1/</guid>
       <description>Batch of new variable stars</description>
     </item>
     
