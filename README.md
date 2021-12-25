@@ -1,5 +1,7 @@
 # Variable star discoveries sites in this repo:
 
+General link: https://mrosseel.github.io/variable-star-discoveries/index.html
+
 ## First batch of WWCrA
 https://mrosseel.github.io/variable-star-discoveries/posts/wwcra2014-1/wwcra2014-1/
 
@@ -12,3 +14,6 @@ https://mrosseel.github.io/variable-star-discoveries/wwcra2013-2017/posts/wwcra/
 
 ## Gaia 2019
 https://mrosseel.github.io/variable-star-discoveries/gaia19bld_final/posts/gaia/19/
+
+## TX Car 2019
+https://mrosseel.github.io/variable-star-discoveries/txcar2019/posts/txcar2019/
