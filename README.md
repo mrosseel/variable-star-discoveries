@@ -17,3 +17,8 @@ https://mrosseel.github.io/variable-star-discoveries/gaia19bld_final/posts/gaia/
 
 ## TX Car 2019
 https://mrosseel.github.io/variable-star-discoveries/txcar2019/posts/txcar2019/
+
+## HO Pup 2018-2019
+## TX Car 2019
+https://mrosseel.github.io/variable-star-discoveries/hopup2018-2019/posts/hopup2018-2019/
+
